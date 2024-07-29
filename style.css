@@ -1,0 +1,76 @@
+#padre img {
+    max-width: 1300px;
+    height: 1500px;
+    width: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+@media (max-width: 600px) {
+    #padre img {
+        width: 440px;
+        height: 750px;
+        padding: auto;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+    #padre img {
+        width: 740px;
+        height: 1050px;
+    }
+
+}
+
+@media (min-width: 901px) and (max-width: 1200px) {
+    #padre img {
+        width: 1040px;
+        height: 1350px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
